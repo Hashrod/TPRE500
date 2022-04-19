@@ -14,7 +14,7 @@ public class main {
                 "<html lang=\"en\">\n" +
                 "<head>\n" +
                 "    <meta charset=\"UTF-8\">\n" +
-                "    <title>Acceuil</title>\n" +
+                "    <title>Acceuil test pipeline</title>\n" +
                 "</head>\n" +
                 "<body>\n" +
                 "    <h1>Liste des agents</h1>\n" +
